@@ -1,1 +1,1 @@
-Ok, so now this is the final product of this project. I have removed the source from the master branch. Let's see if I can download everything.
+So that was a yes. I pretty much have what I made the for, though it will stay up as a reference.
