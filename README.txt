@@ -1,1 +1,0 @@
-So that was a yes. I pretty much have what I made this Git for, though it will stay up as a reference.
